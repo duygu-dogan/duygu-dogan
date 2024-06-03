@@ -16,5 +16,3 @@
 <hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=duygu-dogan&show_icons=true&locale=en" alt="duygu-dogan" />
 </p>
-<br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=duygu-dogan&" alt="duygu-dogan" /></p>
