@@ -1,9 +1,8 @@
 <h1 align="center">Hi there👋, I'm Duygu Doğan</h1>
-<h3 align="center">I'm a life-long learner and now I'm trying to improve myself as a full-stack developer</h3>
 
 - 🔭 I’m currently working on [RentVilla Project](https://github.com/duygu-dogan/DuyguDogan_RentVilla) 🏡, [CS50's Introduction to Computer Science](https://github.com/duygu-dogan/CS50-problem-sets) 💻 and AWS DeepRacer Machine Learning 🚀
 
-- 🌱 I’m currently learning **advanced C# programming, JavaScript, C and C++**
+- 🌱 I’m currently learning **Python, Unit Test**
 
 - 📫 How to reach me **https://www.linkedin.com/in/duygu-dgn/**
 
