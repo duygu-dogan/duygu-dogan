@@ -1,8 +1,8 @@
 <h1 align="center">Hi there👋, I'm Duygu Doğan</h1>
 
-- 🔭 I’m currently working on [Twitter-Clone Project](https://github.com/duygu-dogan/Social-Media-App) 🐦, [CS50's Introduction to Computer Science](https://github.com/duygu-dogan/CS50-problem-sets) 💻 and AWS DeepRacer Machine Learning 🚀
+- 🔭 I’m currently working on [Social Media Application](https://github.com/duygu-dogan/Social-Media-App) 🐦, [CS50's Introduction to Computer Science](https://github.com/duygu-dogan/CS50-problem-sets) 💻 and [Generative AI with AWS](https://www.udacity.com/enrollment/cd13232) 🚀
 
-- 🌱 I’m currently learning **Python, Unit Test**
+- 🌱 I’m currently learning **Python, Unit Test, Redis**
 
 - 📫 How to reach me **https://www.linkedin.com/in/duygu-dgn/**
 
