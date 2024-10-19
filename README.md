@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Duygu Doğan</h1>
 
-- 🔭 I’m currently working on [Social Media Application](https://github.com/duygu-dogan/Social-Media-App) 🐦, [CS50's Introduction to Computer Science](https://github.com/duygu-dogan/CS50-problem-sets) 💻 and [Generative AI with AWS](https://www.udacity.com/enrollment/cd13232) 🚀
+- 🔭 I’m currently working on [Social Media Application](https://github.com/duygu-dogan/Social-Media-App) 🐦, [CS50's Introduction to Computer Science](https://github.com/duygu-dogan/CS50-problem-sets) 💻 and [AI Programming with Python Nanodegree | AWS AI & ML Scholarship Program](https://aws.amazon.com/machine-learning/scholarship/)) 🚀
 
 - 🌱 I’m currently learning **Python, Unit Test, Redis**
 
